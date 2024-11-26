@@ -99,4 +99,4 @@ Hello Mr. Reader, if you find any bug or anything else that could add more value
   
 # 📫 Feedback
 
-If you have any feedback, please reach out to me via [LinkedIn](https://www.linkedin.com/in/lokesh-attarde-145086141/)
+If you have any feedback, please reach out to me via [LinkedIn](www.linkedin.com/in/utkarsh-bhadauria11/)
